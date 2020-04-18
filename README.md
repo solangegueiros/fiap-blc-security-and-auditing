@@ -9,7 +9,7 @@ A avaliação é composta de 2 partes
 Wadaag é um projeto de economia colaborativa. Quando uma pessoa fizer um depósito em Ether utilizando a função deposit, o valor depositado será dividido proporcionalmente pelas pessoas que já fizeram depósitos antes. Quando uma nova pessoa fizer depósito, a pessoa anterior vai receber a sua parte também.
 
 ## Código fonte do smart contract
-
+[Wadaag-exam.sol](Wadaag-exam.sol)
 
 ## Exercício 1 - Identificação de vulnerabilidades e problemas de lógica em Smart Contracts
 
