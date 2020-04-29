@@ -34,8 +34,11 @@ Escreva um relatório de auditoria do smart contract Waddag, com as seguintes se
 3. Recomendações gerais (0,5 ponto)
 4. Metodologia de auditoria (0,5 ponto)
 5. Vulnerabilidades (3,0 pontos)
+
   5.1. Itens críticos
+
   5.2. Itens de severidade média
+  
   5.3. Itens de baixa severidade 
 
 As vulnerabilidades devem ser reportadas utilizando:
