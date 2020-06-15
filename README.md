@@ -74,6 +74,6 @@ Um documento em formato PDF com:
 - execício 1: lista do que foi encontrado, onde para cada item deve apresentar a linha do smart contract e o problema.
 - execício 2: relatório de auditoria com as seções solicitadas. 
 
-> O exercício 1 não deve ser entregue "dentro" do exercício 2, mas o resultado do exercicío 1 poderá ser utilizado no exercício 2.
+> O exercício 1 não deve ser entregue "dentro" do exercício 2, mas o resultado do exercício 1 poderá ser utilizado no exercício 2.
 
 Fazer upload do PDF na plataforma da Fiap
