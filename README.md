@@ -33,17 +33,15 @@ Encontre pelo menos 5 vulnerabilidades, baseando-se no [SWC Registry - Smart Con
 
 Para cada item, identifique a linha e qual a vulnerabilidade encontrada.
 
-> Cada item encontrado vale 0,5 pontos.
-
 ## Exercício 2 - Relatório de auditoria
 
 Escreva um relatório de auditoria do smart contract Widig, com as seguintes seções:
 
-1. Resumo - Abstract (0,5 ponto)
-2. Aviso legal – Disclaimer (0,5 ponto)
-3. Recomendações gerais (0,5 ponto)
-4. Metodologia de auditoria (0,5 ponto)
-5. Vulnerabilidades (3,0 pontos)
+1. Resumo - Abstract
+2. Aviso legal – Disclaimer
+3. Recomendações gerais
+4. Metodologia de auditoria
+5. Vulnerabilidades
   - 5.1. Itens críticos
   - 5.2. Itens de severidade média
   - 5.3. Itens de baixa severidade 
