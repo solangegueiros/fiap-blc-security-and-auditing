@@ -23,23 +23,15 @@ O smart contract do projeto Widig tem mais de 10 problemas / vulnerabilidades.
 
 ### Exercício 1 - parte A
 
-Encontre 5 problemas de lógica. Exemplos: falta de require, endereços inválidos, número máximo / mínimo de participantes
+Encontre pelo menos 5 problemas de lógica. Exemplos: falta de require, endereços inválidos, número máximo / mínimo de participantes
 
-Para cada item, identifique a linha e qual o problema / vulnerabilidade encontrado.
+Para cada item, identifique a linha e qual o problema encontrado.
 
-> Cada item encontrado vale 0,5 pontos.
-> 
 ### Exercício 1 - parte B
 
-Encontre 5 vulnerabilidades, baseando-se no [SWC Registry - Smart Contract Weakness Classification and Test Cases](https://swcregistry.io/).
+Encontre pelo menos 5 vulnerabilidades, baseando-se no [SWC Registry - Smart Contract Weakness Classification and Test Cases](https://swcregistry.io/).
 
 Para cada item, identifique a linha e qual a vulnerabilidade encontrada.
-
-Exemplo ficticio:
-
-linha 8 - a variável é pública
-
-Isto não é um problema ou vulnerabilidade, é apenas um exemplo de como responder o exercício.
 
 > Cada item encontrado vale 0,5 pontos.
 
@@ -66,7 +58,7 @@ itens 1 a 4: no site da [SmartDec](https://blog.smartdec.net/smart-contracts-sec
 item 5: as classificações de vulnerabilidades foram apresentadas na aula 1 e constam no PDF da aula 1, páginas 9-10.
 As vulnerabilidades em si foram identificadas no exercício 1, ou seja, no item 5 do exercício 2 deve-se apenas classificar o que já foi encontrado no exercício 1, com base nas fontes já informadas.
 
-Não é necessário publicar o smart contract em nenhuma plataforma para fazer este trabalho.
+> Não é necessário publicar o smart contract em nenhuma plataforma para fazer este trabalho.
 
 ## Entrega
 PDF na plataforma da Fiap
