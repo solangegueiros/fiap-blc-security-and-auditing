@@ -5,8 +5,8 @@ Avaliação complementar da disciplina Security and Auditing - Blockchain Public
 
 - Widig é um projeto de tokenização de propriedades. 
 - Para uma pessoa investir no projeto, ela deve fazer um depósito em Ether utilizando a função deposit.
-- Quando uma pessoa fizer um depósito em Ether utilizando a função deposit, o valor depositado será dividido proporcionalmente pelas pessoas que já são donas da propriedade, ou seja, que já fizeram depósitos antes. 
-- Quando uma nova pessoa investir no projeto, ou seja, fizer depósito, a pessoa anterior começa a receber a sua parte também.
+- Quando uma pessoa fizer um depósito , o valor depositado será dividido proporcionalmente pelas pessoas que já são donas da propriedade, ou seja, de acordo com as proporções dos depósitos anteriores. 
+- Quando a próxima pessoa investir no projeto, ou seja, fizer depósito, a pessoa anterior começa a receber a sua parte também.
 - Existe um limite de participantes no empreendimento, que deve ser respeitado.
 
 ## Código fonte do smart contract
