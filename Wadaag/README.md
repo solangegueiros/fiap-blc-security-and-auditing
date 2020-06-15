@@ -1,43 +1,33 @@
 # Security and Auditing - Blockchain Public
-Avaliação complementar da disciplina Security and Auditing - Blockchain Public no curso MBA Blockchain - FIAP
+Avaliação da disciplina Security and Auditing - Blockchain Public no curso MBA Blockchain - FIAP
 
-## Contexto: projeto Widig
+## Contexto: projeto Wadaag
 
-- Widig é um projeto de tokenização de propriedades. 
-- Para uma pessoa investir no projeto, ela deve fazer um depósito em Ether utilizando a função deposit.
-- Quando uma pessoa fizer um depósito em Ether utilizando a função deposit, o valor depositado será dividido proporcionalmente pelas pessoas que já são donas da propriedade, ou seja, que já fizeram depósitos antes. 
-- Quando uma nova pessoa investir no projeto, ou seja, fizer depósito, a pessoa anterior começa a receber a sua parte também.
-- Existe um limite de participantes no empreendimento, que deve ser respeitado.
+Wadaag é um projeto de economia colaborativa. Quando uma pessoa fizer um depósito em Ether utilizando a função deposit, o valor depositado será dividido proporcionalmente pelas pessoas que já fizeram depósitos antes. Quando uma nova pessoa fizer depósito, a pessoa anterior vai receber a sua parte também.
 
 ## Código fonte do smart contract
-[Widig-exam.sol](Widig-exam.sol)
+[Wadaag-exam.sol](Wadaag-exam.sol)
 
 ## Descrição
-A avaliação é composta de 2 partes.
+A avaliação é composta de 2 partes
 
 ## Exercício 1 - Identificação de vulnerabilidades e problemas de lógica em Smart Contracts
 
-O smart contract do projeto Widig tem mais de 10 problemas / vulnerabilidades.
+O smart contract do projeto Wadaag tem mais de 10 problemas / vulnerabilidades.
 
-> Analise apenas o smart contract Widig. O SafeMath não será considerado.
+Para cada item, identifique a linha e qual o problema / vulnerabilidade encontrado.
 
-### Exercício 1 - parte A
+Exemplo ficticio:
 
-Encontre pelo menos 5 problemas de lógica. Exemplos: falta de require, endereços inválidos, número máximo / mínimo de participantes
+linha 8 - a variável é pública
 
-Para cada item, identifique a linha e qual o problema encontrado.
-
-### Exercício 1 - parte B
-
-Encontre pelo menos 5 vulnerabilidades, baseando-se no [SWC Registry - Smart Contract Weakness Classification and Test Cases](https://swcregistry.io/).
-
-Para cada item, identifique a linha e qual a vulnerabilidade encontrada.
+Isto não é um problema ou vulnerabilidade, é apenas um exemplo de como responder o exercício.
 
 > Cada item encontrado vale 0,5 pontos.
 
 ## Exercício 2 - Relatório de auditoria
 
-Escreva um relatório de auditoria do smart contract Widig, com as seguintes seções:
+Escreva um relatório de auditoria do smart contract Waddag, com as seguintes seções:
 
 1. Resumo - Abstract (0,5 ponto)
 2. Aviso legal – Disclaimer (0,5 ponto)
@@ -58,13 +48,11 @@ itens 1 a 4: no site da [SmartDec](https://blog.smartdec.net/smart-contracts-sec
 item 5: as classificações de vulnerabilidades foram apresentadas na aula 1 e constam no PDF da aula 1, páginas 9-10.
 As vulnerabilidades em si foram identificadas no exercício 1, ou seja, no item 5 do exercício 2 deve-se apenas classificar o que já foi encontrado no exercício 1, com base nas fontes já informadas.
 
-> Não é necessário publicar o smart contract em nenhuma plataforma para fazer este trabalho.
-
 ## Entrega
 PDF na plataforma da Fiap
 
 ### Data final
-Verificar na plataforma da Fiap
+10/maio/2020 às 23h59 (GMT-3)
 
 ### O que entregar
 
@@ -73,7 +61,5 @@ Um documento em formato PDF com:
 - nomes dos integrantes do grupo
 - execício 1: lista do que foi encontrado, onde para cada item deve apresentar a linha do smart contract e o problema.
 - execício 2: relatório de auditoria com as seções solicitadas. 
-
-> O exercício 1 não deve ser entregue "dentro" do exercício 2, mas o resultado do exercicío 1 poderá ser utilizado no exercício 2.
 
 Fazer upload do PDF na plataforma da Fiap
